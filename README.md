@@ -1,3 +1,5 @@
+twyapialerta
+
 # Caso não tenha instalado:
 
     # prepara o ambiente da aplicação
@@ -45,7 +47,8 @@
             $ python sendalerta.py -n @UserTwitter -m 'Mensagem a ser enviada.'
 
 
-****************************************************************************************************
+---
+
 # V-0.4.0
     - Ciado um programa sendalerta.py que recebe 2 parametros nome e mensagem, uso no SHELL
     - Colocado uma varialvel para controle interno de versão em __init__.py
